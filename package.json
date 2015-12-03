@@ -4,7 +4,25 @@
   "description": ",-----.,--.                  ,--. ,---.   ,--.,------.  ,------.     '  .--./|  | ,---. ,--.,--. ,-|  || o   \\  |  ||  .-.  \\ |  .---'     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \\  :|  `--,      '  '--'\\|  |' '-' ''  ''  '\\ `-' | .'  /   |  ||  '--'  /|  `---.      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'     -----------------------------------------------------------------",
   "main": "app.js",
   "dependencies": {
-    "path": "^0.12.7"
+    "angular": "^1.4.3",
+    "angular-animate": "^1.4.3",
+    "angular-aria": "^1.4.3",
+    "angular-cookies": "^1.4.3",
+    "angular-loader": "^1.4.3",
+    "angular-loading-bar": "^0.8.0",
+    "angular-messages": "^1.4.3",
+    "angular-mocks": "^1.4.3",
+    "angular-resource": "^1.4.3",
+    "angular-route": "^1.4.3",
+    "angular-sanitize": "^1.4.3",
+    "angular-scenario": "^1.4.3",
+    "angular-touch": "^1.4.3",
+    "angular-ui-bootstrap": "^0.13.3",
+    "angular-ui-router": "^0.2.15",
+    "bootstrap": "^3.3.5",
+    "jquery": "^2.1.4",
+    "moment": "^2.10.6",
+    "toastr": "^2.1.2"
   },
   "devDependencies": {
     "babel-core": "^6.2.1",
@@ -12,6 +30,7 @@
     "jshint": "^2.9.1-rc1",
     "jshint-loader": "^0.8.3",
     "node-libs-browser": "^0.5.3",
+    "raw-loader": "^0.5.1",
     "webpack": "^1.12.9",
     "webpack-dev-server": "^1.14.0"
   },
